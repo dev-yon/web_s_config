@@ -4,7 +4,7 @@
   "phising_domain": "https://sara.eu.com/",
   "gemwin_lp_url": "gemwin.top",
   "lp_domain": "https://sunwin.sx",
-  "lp_domain_zo": "https://zowin.io/",
+  "lp_domain_zo": "https://zowin.vc/",
   "lp_domain_nhat": "https://nhat.moi",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
@@ -52,8 +52,8 @@
       "clientId": "nhat.vip"
     },
     "zo.win": {
-      "tokenEndpoint": "https://login.zowin.io/auth/token",
-      "authorizationEndpoint": "https://login.zowin.io/auth/authorize",
+      "tokenEndpoint": "https://login.zowin.vc/auth/token",
+      "authorizationEndpoint": "https://login.zowin.vc/auth/authorize",
       "clientId": "zo.win"
     }
   },
