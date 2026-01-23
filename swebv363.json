@@ -42,8 +42,8 @@
   },
   "loginConfig": {
     "sun.win": {
-      "tokenEndpoint": "https://login.sunwin.biz/auth/token",
-      "authorizationEndpoint": "https://login.sunwin.biz/auth/authorize",
+      "tokenEndpoint": "https://login.sunwin.bi/auth/token",
+      "authorizationEndpoint": "https://login.sunwin.bi/auth/authorize",
       "clientId": "sun.win"
     },
     "nhat.vip": {
