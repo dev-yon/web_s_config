@@ -3,8 +3,8 @@
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
   "gemwin_lp_url": "gemwin.in",
-  "lp_domain": "https://sunwin.bi",
-  "lp_domain_zo": "https://zowin.my/",
+  "lp_domain": "https://sunwin.fo",
+  "lp_domain_zo": "https://zowin.cx/",
   "lp_domain_nhat": "https://nhat.ac",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
@@ -42,8 +42,8 @@
   },
   "loginConfig": {
     "sun.win": {
-      "tokenEndpoint": "https://login.sunwin.bi/auth/token",
-      "authorizationEndpoint": "https://login.sunwin.bi/auth/authorize",
+      "tokenEndpoint": "https://login.sunwin.fo/auth/token",
+      "authorizationEndpoint": "https://login.sunwin.fo/auth/authorize",
       "clientId": "sun.win"
     },
     "nhat.vip": {
