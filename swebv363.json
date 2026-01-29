@@ -52,8 +52,8 @@
       "clientId": "nhat.vip"
     },
     "zo.win": {
-      "tokenEndpoint": "https://login.zowin.my/auth/token",
-      "authorizationEndpoint": "https://login.zowin.my/auth/authorize",
+      "tokenEndpoint": "https://login.zowin.cx/auth/token",
+      "authorizationEndpoint": "https://login.zowin.cx/auth/authorize",
       "clientId": "zo.win"
     }
   },
