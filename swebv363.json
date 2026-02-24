@@ -107,6 +107,12 @@
       "type": 1
     },
     {
+      "gameID": 100,
+      "gameName": "taixiu",
+      "position": 0,
+      "type": 1
+    },
+    {
       "gameID": 14,
       "gameName": "xdtl",
       "position": 1,
@@ -172,6 +178,58 @@
       "gameID": 329,
       "gameName": "c5xdjackpot",
       "position": 1,
+      "type": 2
+    },
+    {
+      "gameID": 218,
+      "gameName": "avenger",
+      "position": 2,
+      "type": 1,
+      "isLandscape": false
+    },
+    {
+      "gameID": 217,
+      "gameName": "pirateking",
+      "position": 2,
+      "type": 1,
+      "isLandscape": false
+    },
+    {
+      "gameID": 205,
+      "gameName": "thuycung",
+      "position": 2,
+      "type": 1,
+      "isLandscape": false
+    },
+    {
+      "gameID": 204,
+      "gameName": "thantai",
+      "position": 2,
+      "type": 1,
+      "isLandscape": false
+    },
+    {
+      "gameID": 219,
+      "gameName": "dragonball",
+      "position": 2,
+      "type": 2
+    },
+    {
+      "gameID": 206,
+      "gameName": "trenduoi",
+      "position": 2,
+      "type": 2
+    },
+    {
+      "gameID": 202,
+      "gameName": "kimcuong",
+      "position": 2,
+      "type": 2
+    },
+    {
+      "gameID": 199,
+      "gameName": "minipoker",
+      "position": 2,
       "type": 2
     },
     {
@@ -244,6 +302,77 @@
       "position": 3,
       "type": 1,
       "gameDisplayName": "Bầu Cua"
+    },
+    {
+      "gameID": 1,
+      "gameName": "tlmn",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
+    },
+    {
+      "gameID": 8,
+      "gameName": "phom",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
+    },
+    {
+      "gameID": 2,
+      "gameName": "sam",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
+    },
+    {
+      "gameID": 4,
+      "gameName": "maubinh",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
+    },
+    {
+      "gameID": 9,
+      "gameName": "xocdia",
+      "position": 3,
+      "type": 1,
+      "gameDisplayName": "Bầu Cua"
+    },
+    {
+      "gameID": 6,
+      "gameName": "poker",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
+    },
+    {
+      "gameID": 5,
+      "gameName": "lieng",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
+    },
+    {
+      "gameID": 13,
+      "gameName": "blackjack",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
+    },
+    {
+      "gameID": 7,
+      "gameName": "xito",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
     },
     {
       "gameID": 426,
