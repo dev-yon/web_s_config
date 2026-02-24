@@ -59,5 +59,272 @@
   },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "sunprod",
-  "brand": "sun.win"
+  "brand": "sun.win",
+  "availableGames": [
+    {
+      "gameID": 400,
+      "gameName": "fish",
+      "position": 0,
+      "type": 1
+    },
+    {
+      "gameID": 300,
+      "gameName": "sb",
+      "position": 0,
+      "type": 1,
+      "isLandscape": false
+    },
+    {
+      "gameID": 506,
+      "gameName": "sunphung",
+      "position": 0,
+      "type": 1
+    },
+    {
+      "gameID": 313,
+      "gameName": "volta",
+      "position": 0,
+      "type": 1
+    },
+    {
+      "gameID": 325,
+      "gameName": "voltas",
+      "position": 0,
+      "type": 1
+    },
+    {
+      "gameID": 501,
+      "gameName": "sunrong",
+      "position": 0,
+      "type": 1,
+      "gameDisplayName": "Sun Rồng",
+      "isLandscape": false
+    },
+    {
+      "gameID": 407,
+      "gameName": "taiphu",
+      "position": 0,
+      "type": 1
+    },
+    {
+      "gameID": 14,
+      "gameName": "xdtl",
+      "position": 1,
+      "type": 1
+    },
+    {
+      "gameID": 305,
+      "gameName": "txlivestream",
+      "position": 1,
+      "type": 1
+    },
+    {
+      "gameID": 306,
+      "gameName": "xdlivestream",
+      "position": 1,
+      "type": 1,
+      "gameDisplayName": "Xóc Dĩa Livestream"
+    },
+    {
+      "gameID": 326,
+      "gameName": "daga",
+      "position": 1,
+      "type": 1
+    },
+    {
+      "gameID": 16,
+      "gameName": "baucualocthu",
+      "position": 1,
+      "type": 1,
+      "gameDisplayName": "Bầu Cua Lộc Thú"
+    },
+    {
+      "gameID": 323,
+      "gameName": "c5baucualive",
+      "position": 1,
+      "type": 2
+    },
+    {
+      "gameID": 320,
+      "gameName": "c5rongholive",
+      "position": 1,
+      "type": 2
+    },
+    {
+      "gameID": 324,
+      "gameName": "c5bcrlive",
+      "position": 1,
+      "type": 2
+    },
+    {
+      "gameID": 321,
+      "gameName": "c5xdlive",
+      "position": 1,
+      "type": 2
+    },
+    {
+      "gameID": 322,
+      "gameName": "c5sicbolive",
+      "position": 1,
+      "type": 2
+    },
+    {
+      "gameID": 329,
+      "gameName": "c5xdjackpot",
+      "position": 1,
+      "type": 2
+    },
+    {
+      "gameID": 418,
+      "gameName": "ongdo",
+      "position": 2,
+      "type": 1
+    },
+    {
+      "gameID": 421,
+      "gameName": "natra",
+      "position": 2,
+      "type": 1
+    },
+    {
+      "gameID": 412,
+      "gameName": "taydu",
+      "position": 2,
+      "type": 1,
+      "isLandscape": false
+    },
+    {
+      "gameID": 411,
+      "gameName": "tuthanthu",
+      "position": 2,
+      "type": 1,
+      "isLandscape": false
+    },
+    {
+      "gameID": 330,
+      "gameName": "lansinhphuquy",
+      "position": 2,
+      "type": 2
+    },
+    {
+      "gameID": 433,
+      "gameName": "frankenstein",
+      "position": 2,
+      "type": 2,
+      "isLandscape": false
+    },
+    {
+      "gameID": 431,
+      "gameName": "santahaudau",
+      "position": 2,
+      "type": 2
+    },
+    {
+      "gameID": 432,
+      "gameName": "momotaro",
+      "position": 2,
+      "type": 2
+    },
+    {
+      "gameID": 415,
+      "gameName": "keno",
+      "position": 3,
+      "type": 1
+    },
+    {
+      "gameID": 427,
+      "gameName": "roulette",
+      "position": 3,
+      "type": 1,
+      "gameDisplayName": "Roulette"
+    },
+    {
+      "gameID": 12,
+      "gameName": "baucua",
+      "position": 3,
+      "type": 1,
+      "gameDisplayName": "Bầu Cua"
+    },
+    {
+      "gameID": 426,
+      "gameName": "pokeraof",
+      "position": 4,
+      "type": 1,
+      "gameDisplayName": "Poker AOF"
+    },
+    {
+      "gameID": 404,
+      "gameName": "xeng",
+      "position": 4,
+      "type": 1
+    },
+    {
+      "gameID": 422,
+      "gameName": "xidealer",
+      "position": 4,
+      "type": 2
+    },
+    {
+      "gameID": 420,
+      "gameName": "bacckimtai",
+      "position": 4,
+      "type": 2
+    },
+    {
+      "gameID": 402,
+      "gameName": "coup",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Cờ Úp",
+      "isLandscape": false
+    },
+    {
+      "gameID": 408,
+      "gameName": "chan",
+      "position": 4,
+      "type": 2,
+      "gameDisplayName": "Chắn"
+    },
+    {
+      "gameID": 303,
+      "gameName": "lodenhanh",
+      "position": 4,
+      "type": 1,
+      "gameDisplayName": "Lô Đề Nhanh"
+    },
+    {
+      "gameID": 302,
+      "gameName": "lode",
+      "position": 4,
+      "type": 1
+    },
+    {
+      "gameID": 250,
+      "gameName": "evo",
+      "position": 4,
+      "type": 2,
+      "isLandscape": false
+    },
+    {
+      "gameID": 251,
+      "gameName": "via",
+      "position": 4,
+      "type": 2,
+      "isLandscape": false
+    },
+    {
+      "gameID": 252,
+      "gameName": "sexy",
+      "position": 4,
+      "type": 2,
+      "isLandscape": false
+    },
+    {
+      "gameID": 253,
+      "gameName": "vivo",
+      "position": 4,
+      "type": 2,
+      "isLandscape": false
+    }
+  ]
 }
