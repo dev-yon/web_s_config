@@ -103,8 +103,8 @@
       "position": 0,
       "type": 1,
       "isEnable": true,
-      "isLandscape": false,
-      "typeGame": null
+      "gameDisplayName": "Sun Rồng",
+      "isLandscape": false
     },
     {
       "gameID": 407,
@@ -241,6 +241,7 @@
       "position": 1,
       "type": 1,
       "isEnable": true,
+      "gameDisplayName": "Xóc Dĩa Livestream",
       "typeGame": 1
     },
     {
@@ -257,7 +258,7 @@
       "position": 1,
       "type": 1,
       "isEnable": true,
-      "typeGame": null
+      "gameDisplayName": "Bầu Cua Lộc Thú"
     },
     {
       "gameID": 323,
@@ -402,14 +403,16 @@
       "prefabName": "data/prefabs/ico_roullet3d",
       "position": 3,
       "type": 1,
-      "isEnable": true
+      "isEnable": true,
+      "gameDisplayName": "Roulette"
     },
     {
       "gameID": 12,
       "prefabName": "data/prefabs/ico_baucua",
       "position": 3,
       "type": 1,
-      "isEnable": true
+      "isEnable": true,
+      "gameDisplayName": "Bầu Cua"
     },
     {
       "gameID": 1,
@@ -448,7 +451,8 @@
       "prefabName": "data/prefabs/ico_xocdia",
       "position": 3,
       "type": 1,
-      "isEnable": true
+      "isEnable": true,
+      "gameDisplayName": "Bầu Cua"
     },
     {
       "gameID": 6,
@@ -488,6 +492,7 @@
       "position": 4,
       "type": 1,
       "isEnable": true,
+      "gameDisplayName": "Poker AOF",
       "typeGame": 4
     },
     {
@@ -526,14 +531,16 @@
       "prefabName": "data/prefabs/ico_chan",
       "position": 4,
       "type": 2,
-      "isEnable": true
+      "isEnable": true,
+      "gameDisplayName": "Chắn"
     },
     {
       "gameID": 303,
       "prefabName": "data/prefabs/ico_lodesieutoc",
       "position": 4,
       "type": 1,
-      "isEnable": true
+      "isEnable": true,
+      "gameDisplayName": "Lô Đề Nhanh"
     },
     {
       "gameID": 302,
@@ -548,7 +555,8 @@
       "position": 4,
       "type": 2,
       "isEnable": true,
-      "isLandscape": false
+      "isLandscape": false,
+      "typeGame": 1
     },
     {
       "gameID": 251,
@@ -556,7 +564,8 @@
       "position": 4,
       "type": 2,
       "isEnable": true,
-      "isLandscape": false
+      "isLandscape": false,
+      "typeGame": 1
     },
     {
       "gameID": 252,
@@ -564,7 +573,8 @@
       "position": 4,
       "type": 2,
       "isEnable": true,
-      "isLandscape": false
+      "isLandscape": false,
+      "typeGame": 1
     },
     {
       "gameID": 253,
@@ -572,7 +582,8 @@
       "position": 4,
       "type": 2,
       "isEnable": true,
-      "isLandscape": false
+      "isLandscape": false,
+      "typeGame": 1
     }
   ]
 }
