@@ -157,70 +157,6 @@
       "typeGame": 2
     },
     {
-      "gameID": 218,
-      "prefabName": "data/prefabs/ico_slot_avenger",
-      "position": 1,
-      "type": 3,
-      "isEnable": true,
-      "typeGame": 3
-    },
-    {
-      "gameID": 217,
-      "prefabName": "data/prefabs/ico_slot-haitac",
-      "position": 1,
-      "type": 3,
-      "isEnable": true,
-      "typeGame": 3
-    },
-    {
-      "gameID": 205,
-      "prefabName": "data/prefabs/ico_slot_thuycung",
-      "position": 1,
-      "type": 3,
-      "isEnable": true,
-      "typeGame": 3
-    },
-    {
-      "gameID": 204,
-      "prefabName": "data/prefabs/ico_slot-thantai",
-      "position": 1,
-      "type": 3,
-      "isEnable": true,
-      "typeGame": 3
-    },
-    {
-      "gameID": 219,
-      "prefabName": "data/prefabs/ico_dragonball",
-      "position": 1,
-      "type": 2,
-      "isEnable": true,
-      "typeGame": 2
-    },
-    {
-      "gameID": 206,
-      "prefabName": "data/prefabs/ico_caothap",
-      "position": 1,
-      "type": 2,
-      "isEnable": true,
-      "typeGame": 2
-    },
-    {
-      "gameID": 202,
-      "prefabName": "data/prefabs/ico_kimcuong",
-      "position": 1,
-      "type": 2,
-      "isEnable": true,
-      "typeGame": 2
-    },
-    {
-      "gameID": 199,
-      "prefabName": "data/prefabs/ico_mnpk",
-      "position": 1,
-      "type": 2,
-      "isEnable": false,
-      "typeGame": 2
-    },
-    {
       "gameID": 14,
       "prefabName": "data/prefabs/ico_xocdia-tulinh",
       "position": 1,
@@ -232,7 +168,7 @@
       "prefabName": "data/prefabs/ico_tx-livestream",
       "position": 1,
       "type": 1,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 1
     },
     {
@@ -323,6 +259,70 @@
       "type": 2,
       "isEnable": false,
       "typeGame": 1
+    },
+    {
+      "gameID": 218,
+      "prefabName": "data/prefabs/ico_slot_avenger",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 217,
+      "prefabName": "data/prefabs/ico_slot-haitac",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 205,
+      "prefabName": "data/prefabs/ico_slot_thuycung",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 204,
+      "prefabName": "data/prefabs/ico_slot-thantai",
+      "position": 1,
+      "type": 3,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 219,
+      "prefabName": "data/prefabs/ico_dragonball",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 2
+    },
+    {
+      "gameID": 206,
+      "prefabName": "data/prefabs/ico_caothap",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 2
+    },
+    {
+      "gameID": 202,
+      "prefabName": "data/prefabs/ico_kimcuong",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 2
+    },
+    {
+      "gameID": 199,
+      "prefabName": "data/prefabs/ico_mnpk",
+      "position": 1,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 2
     },
     {
       "gameID": 418,
