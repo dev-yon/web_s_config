@@ -585,5 +585,6 @@
       "isLandscape": false,
       "typeGame": 1
     }
-  ]
+  ],
+  "isShowIdolStream": true
 }
