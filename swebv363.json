@@ -217,7 +217,7 @@
       "prefabName": "data/prefabs/ico_mnpk",
       "position": 1,
       "type": 2,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 2
     },
     {
@@ -232,7 +232,7 @@
       "prefabName": "data/prefabs/ico_tx-livestream",
       "position": 1,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
