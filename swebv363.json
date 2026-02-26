@@ -24,7 +24,8 @@
       "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_017d.html",
       "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_017d.html",
       "phising_livestream_video_url": "internal/livestream_page/phising_livestream_withautoplay_213_v025k.html",
-      "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html"
+      "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
+      "idol_livestream_video_url": "internal/livestream_page/idol_livestream_withautoplay_01w.html"
     },
     "j_stream": {
       "bacc_livestream_video_url": "internal/livestream_page/bcrlive_withautoplay_jstream_05w.html",
@@ -34,7 +35,8 @@
       "tx_livestream_video_url": "internal/livestream_page/txlive_withautoplay_jstream_01w.html",
       "tx_livestream_video_url_nosound": "internal/livestream_page/txlive_nosound_jstream_01w.html",
       "xd_livestream_video_url": "internal/livestream_page/xdlive_withautoplay_jstream_01w.html",
-      "xd_livestream_video_url_nosound": "internal/livestream_page/xdlive_nosound_jstream_01w.html"
+      "xd_livestream_video_url_nosound": "internal/livestream_page/xdlive_nosound_jstream_01w.html",
+      "idol_livestream_video_url": "internal/livestream_page/idol_livestream_jstream_01w.html"
     }
   },
   "c5_config": {
