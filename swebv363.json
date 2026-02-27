@@ -42,6 +42,23 @@
   "c5_config": {
     "c5_sicbo_live_video_url": "internal/livestream_page/c5_sicbolive_withautoplay_17w_s.html"
   },
+  "loginConfig": {
+    "sun.win": {
+      "tokenEndpoint": "https://login.sunwin.pw/auth/token",
+      "authorizationEndpoint": "https://login.sunwin.pw/auth/authorize",
+      "clientId": "sun.win"
+    },
+    "nhat.vip": {
+      "tokenEndpoint": "https://login.nhat.one/auth/token",
+      "authorizationEndpoint": "https://login.nhat.one/auth/authorize",
+      "clientId": "nhat.vip"
+    },
+    "zo.win": {
+      "tokenEndpoint": "https://login.zowin.sh/auth/token",
+      "authorizationEndpoint": "https://login.zowin.sh/auth/authorize",
+      "clientId": "zo.win"
+    }
+  },
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "sunprod",
   "brand": "sun.win",
