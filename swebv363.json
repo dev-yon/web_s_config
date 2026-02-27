@@ -3,7 +3,7 @@
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
   "gemwin_lp_url": "gemwin.to",
-  "lp_domain": "https://sunwin.pw",
+  "lp_domain": "https://sunwin.lt",
   "lp_domain_zo": "https://zowin.sx/",
   "lp_domain_nhat": "https://nhat.one",
   "rs_domain": "https://staticmt.net/",
@@ -44,8 +44,8 @@
   },
   "loginConfig": {
     "sun.win": {
-      "tokenEndpoint": "https://login.sunwin.pw/auth/token",
-      "authorizationEndpoint": "https://login.sunwin.pw/auth/authorize",
+      "tokenEndpoint": "https://login.sunwin.lt/auth/token",
+      "authorizationEndpoint": "https://login.sunwin.lt/auth/authorize",
       "clientId": "sun.win"
     },
     "nhat.vip": {
