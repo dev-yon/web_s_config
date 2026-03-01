@@ -116,32 +116,6 @@
       "isEnable": true
     },
     {
-      "gameID": 15,
-      "prefabName": "data/prefabs/ico_rongho",
-      "position": 0,
-      "type": 1,
-      "isEnable": false,
-      "isLandscape": false
-    },
-    {
-      "gameID": 311,
-      "prefabName": "data/prefabs/ico_tx88-livestream",
-      "position": 0,
-      "type": 1,
-      "isEnable": false,
-      "isLandscape": false,
-      "typeGame": 1
-    },
-    {
-      "gameID": 316,
-      "prefabName": "data/prefabs/ico_bacc-livestream",
-      "position": 0,
-      "type": 1,
-      "isEnable": false,
-      "isLandscape": false,
-      "typeGame": 1
-    },
-    {
       "gameID": 317,
       "prefabName": "data/prefabs/ico_xdtt-livestream",
       "position": 0,
@@ -159,11 +133,37 @@
       "typeGame": 2
     },
     {
+      "gameID": 15,
+      "prefabName": "data/prefabs/ico_rongho",
+      "position": 0,
+      "type": 1,
+      "isEnable": false,
+      "isLandscape": false
+    },
+    {
       "gameID": 14,
       "prefabName": "data/prefabs/ico_xocdia-tulinh",
       "position": 1,
       "type": 1,
       "isEnable": true
+    },
+    {
+      "gameID": 316,
+      "prefabName": "data/prefabs/ico_bacc-livestream",
+      "position": 0,
+      "type": 1,
+      "isEnable": false,
+      "isLandscape": false,
+      "typeGame": 1
+    },
+    {
+      "gameID": 311,
+      "prefabName": "data/prefabs/ico_tx88-livestream",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false,
+      "typeGame": 1
     },
     {
       "gameID": 305,
