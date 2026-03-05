@@ -100,6 +100,14 @@
       "isEnable": true
     },
     {
+      "gameID": 15,
+      "prefabName": "data/prefabs/ico_rongho",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "isLandscape": false
+    },
+    {
       "gameID": 501,
       "prefabName": "data/prefabs/ico_superdragonball",
       "position": 0,
@@ -131,14 +139,6 @@
       "type": 1,
       "isEnable": true,
       "typeGame": 2
-    },
-    {
-      "gameID": 15,
-      "prefabName": "data/prefabs/ico_rongho",
-      "position": 0,
-      "type": 1,
-      "isEnable": false,
-      "isLandscape": false
     },
     {
       "gameID": 14,
