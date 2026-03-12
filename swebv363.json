@@ -8,6 +8,11 @@
   "lp_domain_nhat": "https://nhat.fit",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
+  "web_domains": {
+    "sun.win": "https://web.sunwin.id/",
+    "nhat.vip": "https://play.nhat.fit/",
+    "zo.win": "https://web.zowin.bh/"
+  },
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
   "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025k.html",
   "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_213_017d.html",
