@@ -581,8 +581,7 @@
       "position": 4,
       "type": 2,
       "isEnable": true,
-      "isLandscape": false,
-      "typeGame": 1
+      "isLandscape": false
     }
   ],
   "isShowIdolStream": false
