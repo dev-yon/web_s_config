@@ -582,6 +582,14 @@
       "type": 2,
       "isEnable": true,
       "isLandscape": false
+    },
+    {
+      "gameID": 255,
+      "prefabName": "data/prefabs/ico_saba-live",
+      "position": 4,
+      "type": 2,
+      "isEnable": true,
+      "isLandscape": false
     }
   ],
   "isShowIdolStream": false
