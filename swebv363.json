@@ -2,16 +2,16 @@
   "host_domain": "https://cfg.azhkthg1.com/",
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
-  "gemwin_lp_url": "gemwin.pl",
-  "lp_domain": "https://sunwin.sl/",
-  "lp_domain_zo": "https://zowin.run/",
-  "lp_domain_nhat": "https://nhat.my/",
+  "gemwin_lp_url": "gemwin.lc",
+  "lp_domain": "https://sunwin.sr/",
+  "lp_domain_zo": "https://zowin.mom/",
+  "lp_domain_nhat": "https://nhat.bh/",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "web_domains": {
-    "sun.win": "https://web.sunwin.sl/",
-    "nhat.vip": "https://play.nhat.my/",
-    "zo.win": "https://web.zowin.run/"
+    "sun.win": "https://web.sunwin.sr/",
+    "nhat.vip": "https://play.nhat.bh/",
+    "zo.win": "https://web.zowin.mom/"
   },
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
   "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025k.html",
@@ -47,6 +47,7 @@
   "c5_config": {
     "c5_sicbo_live_video_url": "internal/livestream_page/c5_sicbolive_withautoplay_17w_s.html"
   },
+  "sb_daga_video_url": "https://vuivita.sb21.net/?streaming=true&custom=true",
   "ncc_games": "internal/livestream_page/ncc_games_fullscreen.html",
   "appName": "sunprod",
   "brand": "sun.win",
