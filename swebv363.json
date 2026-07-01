@@ -2,16 +2,16 @@
   "host_domain": "https://cfg.azhkthg1.com/",
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
-  "gemwin_lp_url": "gemwin.esq",
-  "lp_domain": "https://sunwin.show/",
-  "lp_domain_zo": "https://zowin.esq/",
-  "lp_domain_nhat": "https://nhat.cam/",
+  "gemwin_lp_url": "gemwin.mobi",
+  "lp_domain": "https://sunwin.free/",
+  "lp_domain_zo": "https://zowin.srl/",
+  "lp_domain_nhat": "https://nhat.asia/",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "web_domains": {
-    "sun.win": "https://web.sunwin.show/",
-    "nhat.vip": "https://play.nhat.cam/",
-    "zo.win": "https://web.zowin.esq/"
+    "sun.win": "https://web.sunwin.free/",
+    "nhat.vip": "https://play.nhat.asia/",
+    "zo.win": "https://web.zowin.srl/"
   },
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
   "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025k.html",
