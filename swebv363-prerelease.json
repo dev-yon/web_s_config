@@ -6,20 +6,13 @@
   "lp_domain": "https://sunwin.rich/",
   "lp_domain_zo": "https://zowin.fan/",
   "lp_domain_nhat": "https://nhat.cab/",
-  "rs_domain": "https://staticmt.net/",
+  "rs_domain": "https://staticmt.net/prerelease/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "web_domains": {
     "sun.win": "https://web.sunwin.rich/",
     "nhat.vip": "https://play.nhat.cab/",
     "zo.win": "https://web.zowin.fan/"
   },
-  "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
-  "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025k.html",
-  "tx_livestream_video_url": "internal/livestream_page/taixiulive_withautoplay_213_017d.html",
-  "tx_livestream_video_url_nosound": "internal/livestream_page/taixiulive_nosound_213_017d.html",
-  "xd_livestream_video_url": "internal/livestream_page/xocdialive_withautoplay_213_017d.html",
-  "xd_livestream_video_url_nosound": "internal/livestream_page/xocdialive_nosound_213_017d.html",
-  "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
   "streamUrls": {
     "stream": {
       "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
