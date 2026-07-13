@@ -609,5 +609,6 @@
       "isLandscape": false
     }
   ],
-  "isShowIdolStream": false
+  "isShowIdolStream": false,
+  "standAloneAuthenStreamUrl": "https://api100.azhkthg1.net/gameapi/public/livestream/sstream"
 }
