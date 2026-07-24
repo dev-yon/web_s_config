@@ -408,6 +408,22 @@
       "typeGame": 3
     },
     {
+      "gameID": 429,
+      "prefabName": "data/prefabs/ico_bingomaquai",
+      "position": 2,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
+      "gameID": 333,
+      "prefabName": "data/prefabs/ico_locmanhuy",
+      "position": 2,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
       "gameID": 415,
       "prefabName": "data/prefabs/ico_keno",
       "position": 3,
