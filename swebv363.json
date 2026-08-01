@@ -141,7 +141,7 @@
       "prefabName": "data/prefabs/ico_bacc-livestream",
       "position": 0,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1
     },
@@ -150,7 +150,7 @@
       "prefabName": "data/prefabs/ico_bacc-8-livestream",
       "position": 0,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1
     },
