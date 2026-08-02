@@ -2,14 +2,14 @@
   "host_domain": "https://cfg.azhkthg1.com/",
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
-  "gemwin_lp_url": "gemwin.talk",
-  "lp_domain": "https://sunwin.promo/",
+  "gemwin_lp_url": "gemwin.rent",
+  "lp_domain": "https://sunwin.glass/",
   "lp_domain_zo": "https://zowin.st/",
   "lp_domain_nhat": "https://nhat.vet/",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "web_domains": {
-    "sun.win": "https://web.sunwin.promo/",
+    "sun.win": "https://web.sunwin.glass/",
     "nhat.vip": "https://play.nhat.vet/",
     "zo.win": "https://web.zowin.st/"
   },
