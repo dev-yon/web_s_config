@@ -2,16 +2,16 @@
   "host_domain": "https://cfg.azhkthg1.com/",
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
-  "gemwin_lp_url": "gemwin.spot",
-  "lp_domain": "https://sunwin.rich/",
-  "lp_domain_zo": "https://zowin.fan/",
-  "lp_domain_nhat": "https://nhat.cab/",
+  "gemwin_lp_url": "gem.win",
+  "lp_domain": "https://sun.win/",
+  "lp_domain_zo": "https://zo.win/",
+  "lp_domain_nhat": "https://nhat.vip/",
   "rs_domain": "https://staticmt.net/prerelease/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "web_domains": {
-    "sun.win": "https://web.sunwin.rich/",
-    "nhat.vip": "https://play.nhat.cab/",
-    "zo.win": "https://web.zowin.fan/"
+    "sun.win": "https://web.sun.win/",
+    "nhat.vip": "https://web.zo.win/",
+    "zo.win": "https://web.nhat.vip/"
   },
   "streamUrls": {
     "stream": {
@@ -103,7 +103,8 @@
       "prefabName": "data/prefabs/ico_sicbo",
       "position": 0,
       "type": 1,
-      "isEnable": true
+      "isEnable": true,
+      "isMaintain": true
     },
     {
       "gameID": 317,
@@ -112,7 +113,8 @@
       "type": 1,
       "isEnable": true,
       "isLandscape": false,
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 100,
@@ -136,7 +138,8 @@
       "type": 1,
       "isEnable": true,
       "isLandscape": false,
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 504,
@@ -145,7 +148,8 @@
       "type": 1,
       "isEnable": true,
       "isLandscape": false,
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 311,
@@ -162,7 +166,8 @@
       "position": 1,
       "type": 1,
       "isEnable": true,
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 306,
@@ -171,7 +176,8 @@
       "type": 1,
       "isEnable": true,
       "gameDisplayName": "Xóc Dĩa Livestream",
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 326,
@@ -179,7 +185,8 @@
       "position": 1,
       "type": 1,
       "isEnable": true,
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 16,
