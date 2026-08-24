@@ -103,8 +103,7 @@
       "prefabName": "data/prefabs/ico_sicbo",
       "position": 0,
       "type": 1,
-      "isEnable": true,
-      "isMaintain": true
+      "isEnable": true
     },
     {
       "gameID": 317,
@@ -158,7 +157,8 @@
       "type": 1,
       "isEnable": true,
       "isLandscape": false,
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 305,
