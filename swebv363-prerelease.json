@@ -112,8 +112,7 @@
       "type": 1,
       "isEnable": true,
       "isLandscape": false,
-      "typeGame": 1,
-      "isMaintain": true
+      "typeGame": 1
     },
     {
       "gameID": 100,
@@ -166,8 +165,7 @@
       "position": 1,
       "type": 1,
       "isEnable": true,
-      "typeGame": 1,
-      "isMaintain": true
+      "typeGame": 1
     },
     {
       "gameID": 306,
@@ -176,8 +174,7 @@
       "type": 1,
       "isEnable": true,
       "gameDisplayName": "Xóc Dĩa Livestream",
-      "typeGame": 1,
-      "isMaintain": true
+      "typeGame": 1
     },
     {
       "gameID": 326,
@@ -185,8 +182,7 @@
       "position": 1,
       "type": 1,
       "isEnable": true,
-      "typeGame": 1,
-      "isMaintain": true
+      "typeGame": 1
     },
     {
       "gameID": 16,
