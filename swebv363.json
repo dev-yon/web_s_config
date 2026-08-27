@@ -119,7 +119,8 @@
       "type": 1,
       "isEnable": true,
       "isLandscape": false,
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 100,
@@ -161,7 +162,8 @@
       "type": 1,
       "isEnable": true,
       "isLandscape": false,
-      "typeGame": 1
+      "typeGame": 1,
+      "isMaintain": true
     },
     {
       "gameID": 305,
