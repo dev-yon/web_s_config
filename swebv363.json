@@ -3,13 +3,13 @@
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
   "gemwin_lp_url": "gemwin.srl",
-  "lp_domain": "https://sunwin.trade/",
+  "lp_domain": "https://sunwin.radio/",
   "lp_domain_zo": "https://zowin.money/",
   "lp_domain_nhat": "https://nhatvip.ski/",
   "rs_domain": "https://staticmt.net/",
   "sport_domain": "https://sport.azhkthg1.com/",
   "web_domains": {
-    "sun.win": "https://web.sunwin.trade/",
+    "sun.win": "https://web.sunwin.radio/",
     "nhat.vip": "https://play.nhatvip.ski/",
     "zo.win": "https://web.zowin.money/"
   },
