@@ -2,7 +2,7 @@
   "host_domain": "https://cfg.azhkthg1.com/",
   "api_domain": "https://api.azhkthg1.com/",
   "phising_domain": "https://sara.eu.com/",
-  "gemwin_lp_url": "gemwin.srl",
+  "gemwin_lp_url": "gemwin.biz",
   "lp_domain": "https://sunwin.radio/",
   "lp_domain_zo": "https://zowin.money/",
   "lp_domain_nhat": "https://nhatvip.ski/",
@@ -11,7 +11,7 @@
   "web_domains": {
     "sun.win": "https://web.sunwin.radio/",
     "nhat.vip": "https://play.nhatvip.ski/",
-    "zo.win": "https://web.zowin.money/"
+    "zo.win": "https://play.zowin.money/"
   },
   "xdtt_livestream_video_url": "xocdiathuytinh_withautoplay_213_v004f.html",
   "phising_livestream_video_url": "phising_livestream_withautoplay_213_v025k.html",
