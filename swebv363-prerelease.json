@@ -13,13 +13,6 @@
     "nhat.vip": "https://web.zo.win/",
     "zo.win": "https://web.nhat.vip/"
   },
-  "loginConfig": {
-    "sun.win": {
-      "clientId": "sun.win",
-      "authorizationEndpoint": "https://login-internal.sunwin.vin/auth/authorize",
-      "tokenEndpoint": "https://login-internal.sunwin.vin/auth/token"
-    }
-  },
   "streamUrls": {
     "stream": {
       "tx88_livestream_auth_video_url": "internal/livestream_page/sicbolive_withautoplay_02w.html",
