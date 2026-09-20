@@ -71,10 +71,9 @@
       "gameID": 508,
       "prefabName": "data/prefabs/ico_qilin_game",
       "position": 0,
-      "type": 0,
+      "type": 1,
       "isEnable": true,
-      "isLandscape": true,
-      "typeGame": 1
+      "isLandscape": true
     },
     {
       "gameID": 506,
