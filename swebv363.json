@@ -125,7 +125,7 @@
       "prefabName": "data/prefabs/ico_xdtt-livestream",
       "position": 0,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1,
       "isMaintain": true
@@ -168,7 +168,7 @@
       "prefabName": "data/prefabs/ico_tx88-livestream",
       "position": 0,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": false,
       "typeGame": 1,
       "isMaintain": true
