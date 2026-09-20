@@ -72,7 +72,7 @@
       "prefabName": "data/prefabs/ico_qilin_game",
       "position": 0,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "isLandscape": true
     },
     {
