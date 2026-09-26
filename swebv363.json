@@ -83,6 +83,15 @@
       "isEnable": true
     },
     {
+      "gameID": 501,
+      "prefabName": "data/prefabs/ico_superdragonball",
+      "position": 0,
+      "type": 1,
+      "isEnable": true,
+      "gameDisplayName": "Sun Rồng",
+      "isLandscape": false
+    },
+    {
       "gameID": 313,
       "prefabName": "data/prefabs/ico_volta",
       "position": 0,
@@ -102,15 +111,6 @@
       "position": 0,
       "type": 1,
       "isEnable": true,
-      "isLandscape": false
-    },
-    {
-      "gameID": 501,
-      "prefabName": "data/prefabs/ico_superdragonball",
-      "position": 0,
-      "type": 1,
-      "isEnable": true,
-      "gameDisplayName": "Sun Rồng",
       "isLandscape": false
     },
     {
