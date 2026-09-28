@@ -429,6 +429,14 @@
       "typeGame": 3
     },
     {
+      "gameID": 334,
+      "prefabName": "data/prefabs/ico_lototiphu",
+      "position": 2,
+      "type": 2,
+      "isEnable": true,
+      "typeGame": 3
+    },
+    {
       "gameID": 415,
       "prefabName": "data/prefabs/ico_keno",
       "position": 3,
