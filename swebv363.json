@@ -438,7 +438,7 @@
       "prefabName": "data/prefabs/ico_lototiphu",
       "position": 2,
       "type": 2,
-      "isEnable": false,
+      "isEnable": true,
       "typeGame": 3
     },
     {
