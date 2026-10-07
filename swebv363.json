@@ -653,5 +653,6 @@
     }
   ],
   "isShowEventPopup": false,
+  "standAloneRsDomain": "https://minigame.sungame.net/",
   "standAloneAuthenStreamUrl": "https://api100.azhkthg1.net/gameapi/public/livestream/sstream"
 }
