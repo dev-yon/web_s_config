@@ -178,7 +178,7 @@
       "prefabName": "data/prefabs/ico_tx-livestream",
       "position": 1,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "typeGame": 1
     },
     {
@@ -186,7 +186,7 @@
       "prefabName": "data/prefabs/ico_xd-livestream",
       "position": 1,
       "type": 1,
-      "isEnable": true,
+      "isEnable": false,
       "gameDisplayName": "Xóc Dĩa Livestream",
       "typeGame": 1
     },
